@@ -1,0 +1,67 @@
+* { 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+input{
+  border-color: teal;
+  color: teal;
+  background-color: gainsboro;
+}
+
+textarea{
+  border-color: teal;
+  background-color: gainsboro;
+}
+
+.container{
+  min-width: 100%;
+  min-height: 100%;
+  border: -10;
+  margin: 20px;
+  margin-top: -2px;
+  margin-left: 0px;
+  margin-right: 0;
+  margin-bottom: -0.5cm;
+  font-family: sans-serif;
+  background-color: gainsboro;
+}
+
+.title{
+  color: rgb(255, 255, 255);
+  text-align: center;
+  background-color: teal;
+}
+
+.days{
+  color: teal;
+  margin-top: 55px;
+  margin-left: 60px;
+
+}
+
+.actions{
+  margin-top: 40px;
+  margin-left: 60px;
+  color: teal;
+}
+
+.from{
+  color: rgb(255, 255, 255);
+  background-color: teal;
+  text-align: center;
+}
+
+.contact{
+  color: rgb(255, 255, 255);
+  background-color: teal;
+  text-align: center;
+}
+
+.linkedin{
+  margin: 0 15px;
+}
+
+footer{
+  position: relative;
+}
